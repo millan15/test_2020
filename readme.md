@@ -8,4 +8,4 @@
 
 $dummy updates 2
 
-#Test for merge
+# line to be tested 2
