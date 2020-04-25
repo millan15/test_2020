@@ -3,6 +3,7 @@
 #git commands
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #testing show and diff commands of git
 
 #new update in master
@@ -14,3 +15,10 @@
 =======
 $git branch
 >>>>>>> bd5af57
+=======
+#git new branch from master
+
+#dummy updates
+
+$dummy updates 2
+>>>>>>> new-branch
