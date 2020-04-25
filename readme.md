@@ -2,6 +2,7 @@
 
 #git commands
 
+<<<<<<< HEAD
 #testing show and diff commands of git
 
 #new update in master
@@ -10,3 +11,6 @@
 
 #multiple change 1
 #mmultiple change 2
+=======
+$git branch
+>>>>>>> bd5af57
