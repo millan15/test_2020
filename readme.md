@@ -20,4 +20,6 @@
 
 #dummy updates 2
 
-# line to be tested
+$dummy updates 2
+
+# line to be tested 2
