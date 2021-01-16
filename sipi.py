@@ -25,3 +25,10 @@ except IOError:
 log_report = final_report(infile)
 print (log_report)
 infile.close()
+
+
+
+#output
+#{'status': '200'}
+#{'status': '200'}
+#{'status': '200'}
