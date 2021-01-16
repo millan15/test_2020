@@ -3,9 +3,7 @@
 import sys
 def apache_output(line):
     split_line = line.split()
-#    return {'remote_host': split_line[0],
-#    'apache_status': split_line[8],
-    return {'data_transfer': split_line[8],
+    return {'status': split_line[8],
     }
 
 def final_report(logfile):
